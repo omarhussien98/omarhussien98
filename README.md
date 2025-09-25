@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @omarhussien98
-- 👀 I’m interested in Programming
-- 📫 How to reach me (omar.anr9348@gmail.com)
-<!---
-omarhussien98/omarhussien98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full Stack Developer | React, Next.js, Node.js & MongoDB
+Specialist in E-commerce & SaaS solutions | From concept to deployment
+Let's build your next scalable web application together!
+
+- Email: omar.anr9348@gmail.com
+- LinkedIn: www.linkedin.com/in/omar-hussien-7a7b4820a
